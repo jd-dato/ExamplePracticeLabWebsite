@@ -60,6 +60,15 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="site_libs/jquery-1.11.1/jquery.min.js"></script>
+<link href="site_libs/dygraphs-1.1.1/dygraph.css" rel="stylesheet">
+<script src="site_libs/dygraphs-1.1.1/dygraph-combined.js"></script>
+<script src="site_libs/dygraphs-1.1.1/shapes.js"></script>
+<script src="site_libs/moment-2.8.4/moment.js"></script>
+<script src="site_libs/moment-timezone-0.2.5/moment-timezone-with-data.js"></script>
+<script src="site_libs/moment-fquarter-1.0.0/moment-fquarter.min.js"></script>
+<script src="site_libs/dygraphs-binding-1.1.1.6/dygraphs.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -121,7 +130,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#current-projects" id="toc-current-projects" class="nav-link active" data-scroll-target="#current-projects">Current Projects</a></li>
+  <li><a href="#current-projects" id="toc-current-projects" class="nav-link active" data-scroll-target="#current-projects">Current Projects</a>
+  <ul class="collapse">
+  <li><a href="#check-out-this-cool-time-series-graph" id="toc-check-out-this-cool-time-series-graph" class="nav-link" data-scroll-target="#check-out-this-cool-time-series-graph">Check out this cool time-series graph</a></li>
+  </ul></li>
   <li><a href="#publications-by-year" id="toc-publications-by-year" class="nav-link" data-scroll-target="#publications-by-year">Publications By Year</a>
   <ul class="collapse">
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2022</a></li>
@@ -142,6 +154,15 @@ ul.task-list li input[type="checkbox"] {
 <section id="current-projects" class="level1">
 <h1>Current Projects</h1>
 <p><strong><em>I think that it’d be really cool to show some graphics/visualizations of some work done here in the lab.</em></strong></p>
+<section id="check-out-this-cool-time-series-graph" class="level2">
+<h2 class="anchored" data-anchor-id="check-out-this-cool-time-series-graph">Check out this cool time-series graph</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-528d7eaf25e8e0276015" style="width:100%;height:464px;" class="dygraphs html-widget"></div>
+<script type="application/json" data-for="htmlwidget-528d7eaf25e8e0276015">{"x":{"attrs":{"title":"New Haven Temperatures","labels":["year","V1"],"legend":"auto","retainDateWindow":false,"axes":{"x":{"pixelsPerLabel":60}},"showRangeSelector":true,"dateWindow":["1920-01-01T00:00:00.000Z","1960-01-01T00:00:00.000Z"],"rangeSelectorHeight":40,"rangeSelectorPlotFillColor":" #A7B1C4","rangeSelectorPlotStrokeColor":"#808FAB","interactionModel":"Dygraph.Interaction.defaultModel"},"scale":"yearly","annotations":[],"shadings":[],"events":[],"format":"date","data":[["1912-01-01T00:00:00.000Z","1913-01-01T00:00:00.000Z","1914-01-01T00:00:00.000Z","1915-01-01T00:00:00.000Z","1916-01-01T00:00:00.000Z","1917-01-01T00:00:00.000Z","1918-01-01T00:00:00.000Z","1919-01-01T00:00:00.000Z","1920-01-01T00:00:00.000Z","1921-01-01T00:00:00.000Z","1922-01-01T00:00:00.000Z","1923-01-01T00:00:00.000Z","1924-01-01T00:00:00.000Z","1925-01-01T00:00:00.000Z","1926-01-01T00:00:00.000Z","1927-01-01T00:00:00.000Z","1928-01-01T00:00:00.000Z","1929-01-01T00:00:00.000Z","1930-01-01T00:00:00.000Z","1931-01-01T00:00:00.000Z","1932-01-01T00:00:00.000Z","1933-01-01T00:00:00.000Z","1934-01-01T00:00:00.000Z","1935-01-01T00:00:00.000Z","1936-01-01T00:00:00.000Z","1937-01-01T00:00:00.000Z","1938-01-01T00:00:00.000Z","1939-01-01T00:00:00.000Z","1940-01-01T00:00:00.000Z","1941-01-01T00:00:00.000Z","1942-01-01T00:00:00.000Z","1943-01-01T00:00:00.000Z","1944-01-01T00:00:00.000Z","1945-01-01T00:00:00.000Z","1946-01-01T00:00:00.000Z","1947-01-01T00:00:00.000Z","1948-01-01T00:00:00.000Z","1949-01-01T00:00:00.000Z","1950-01-01T00:00:00.000Z","1951-01-01T00:00:00.000Z","1952-01-01T00:00:00.000Z","1953-01-01T00:00:00.000Z","1954-01-01T00:00:00.000Z","1955-01-01T00:00:00.000Z","1956-01-01T00:00:00.000Z","1957-01-01T00:00:00.000Z","1958-01-01T00:00:00.000Z","1959-01-01T00:00:00.000Z","1960-01-01T00:00:00.000Z","1961-01-01T00:00:00.000Z","1962-01-01T00:00:00.000Z","1963-01-01T00:00:00.000Z","1964-01-01T00:00:00.000Z","1965-01-01T00:00:00.000Z","1966-01-01T00:00:00.000Z","1967-01-01T00:00:00.000Z","1968-01-01T00:00:00.000Z","1969-01-01T00:00:00.000Z","1970-01-01T00:00:00.000Z","1971-01-01T00:00:00.000Z"],[49.9,52.3,49.4,51.1,49.4,47.9,49.8,50.9,49.3,51.9,50.8,49.6,49.3,50.6,48.4,50.7,50.9,50.6,51.5,52.8,51.8,51.1,49.8,50.2,50.4,51.6,51.8,50.9,48.8,51.7,51,50.6,51.7,51.5,52.1,51.3,51,54,51.4,52.7,53.1,54.6,52,52,50.9,52.6,50.2,52.6,51.6,51.9,50.5,50.9,51.7,51.4,51.7,50.8,51.9,51.8,51.9,53]]},"evals":["attrs.interactionModel"],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
 </section>
 <section id="publications-by-year" class="level1">
 <h1>Publications By Year</h1>

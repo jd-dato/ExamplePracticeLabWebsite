@@ -5,7 +5,7 @@ title: Members of the ART Lab
 
 # Principal Investigator
 
-## Dr. Schlauch
+## [Dr. Robert Schlauch](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)
 
 # Post-Doctoral Researchers
 
@@ -20,8 +20,8 @@ title: Members of the ART Lab
 
 ![](profile_pic-2-2.avif){width="50%"}
 
-- some bullshit here
-    - some other bullshit here  
+- ego stroking promo
+    - details of what I do (so interesting)  
 
 <a href="mailto:jdato@usf.edu" class="about-link">
     <i class="bi bi-envelope-paper-fill"></i>
