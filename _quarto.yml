@@ -8,15 +8,15 @@ website:
   title: "***ART LAB USF***"
   navbar:
     left:
-      - href: index.qmd
+      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/index
         text: Home
-      - href: About.qmd
+      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/about
         text: About
-      - href: People.qmd
+      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/people
         text: People
-      - href: Projects.qmd
+      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/projects
         text: Projects
-      - href: Contact.qmd
+      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/contact
         text: Contact
     right: 
           - icon: envelope
