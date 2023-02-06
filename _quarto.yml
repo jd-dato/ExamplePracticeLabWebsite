@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  search: 
+    location: navbar
+    type: overlay
+  title: "***ART LAB USF***"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: About.qmd
+        text: About
+      - href: People.qmd
+        text: People
+      - href: Projects.qmd
+        text: Projects
+      - href: Contact.qmd
+        text: Contact
+    right: 
+          - icon: envelope
+            href: mailto:artusf@usf.edu
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

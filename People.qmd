@@ -1,0 +1,36 @@
+---
+title: Members of the ART Lab
+
+---
+
+# Principal Investigator
+
+## Dr. Schlauch
+
+# Post-Doctoral Researchers
+
+# Graduate Students
+
+## Brendan Walsh
+
+
+# Undergraduate Students
+
+## J.D. Dato 
+
+![](profile_pic-2-2.avif){width="50%"}
+
+- some bullshit here
+    - some other bullshit here  
+
+<a href="mailto:jdato@usf.edu" class="about-link">
+    <i class="bi bi-envelope-paper-fill"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+
+<a href="https://jd-dato.github.io" class="about-link">
+    <i class="bi bi-globe2"></i>
+     <span class="about-link-text">Website</span>
+  </a>
+
+
