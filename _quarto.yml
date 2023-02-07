@@ -2,22 +2,24 @@ project:
   type: website
 
 website:
+  repo-url: https://github.com/jd-dato/ExamplePracticeLabWebsite
+  repo-actions: [edit, issue]
   search: 
     location: navbar
     type: overlay
-  title: "***ART LAB USF***"
+  title: "ART LAB USF"
   navbar:
     left:
-      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/index
-        text: Home
-      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/about
-        text: About
-      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/people
-        text: People
-      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/projects
-        text: Projects
-      - href: https://jd-dato.github.io/ExamplePracticeLabWebsite/contact
-        text: Contact
+          - text: "Home"
+            file: index.qmd
+          - text: "People"
+            file: People.qmd
+          - text: "About Us"
+            file: About.qmd
+          - text: "Projects/Publications"
+            file: Projects.qmd
+          - text: "Contact Us"
+            file: Contact.qmd
     right: 
           - icon: envelope
             href: mailto:artusf@usf.edu

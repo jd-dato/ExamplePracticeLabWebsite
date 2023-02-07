@@ -1,4 +1,11 @@
-# Current Projects
+---
+title: 'Projects and Publications'
+
+
+---
+# Projects
+
+## Current Projects
 
 ***I think that it'd be really cool to show some graphics/visualizations of some work done here in the lab.***
 
