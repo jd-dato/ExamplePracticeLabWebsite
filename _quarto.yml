@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: united
     css: styles.css
     toc: true
 
