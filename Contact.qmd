@@ -3,9 +3,27 @@ title: 'Contact Us'
 
 ---
 
+
+<script>
+	function showEmail() {
+		document.getElementById("email").style.display = "block";
+		document.getElementById("show-button").style.display = "none";
+	}
+</script>
+
+
+
+
+<button type="button" class="btn btn-light" id="show-button" onclick="showEmail()">Show Email</button>
+<p id="email" style="display:none">artlab@gmail.com</p>
+
+
+
+**To Prevent Spam, we have hidden our email address. Please click the button above to reveal it.**
+
 # Directions
 
-Located in the Second Floor of the Psychology wing in room 24?? <- `I actually forgot -J.D.`
+Located in the Second Floor of the Psychology wing in room 3??? 
 
 
 <style>

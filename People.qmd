@@ -4,31 +4,57 @@ toc: true
 toc-location: left
 ---
 
+<style>
+  img {
+    padding-right: 20px;
+  }
+</style>
+
 # Principal Investigator
 
 ## [Dr. Robert Schlauch](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)
 
-My research interests focus broadly in understanding the role of individual differences in alcohol and drug use behavior. Specifically, I am interested in applying multidisciplinary approaches to the study of: a) processes associated with positive treatment outcomes, with a particular emphasis on craving and pretreatment change, b) risk factors for the development of substance use disorders (SUDs), including positive and negative reinforcement pathways to use, c) the interplay between substance use, comorbid disorders, personality, and aggression, including intimate partner violence, and d) the moderating role of individual difference variables in alcohol related disinhibited behaviors. Related to my work on craving, I am also interested (in collaboration with Dr. Diana Rancourt) in the applicability of craving as a transdiagnostic construct for disordered eating and compensatory behaviors. Secondary interests include methodological issues in clinical science broadly, and substance use research specifically.
+<img src="ROB.jpg" alt="Robert Sclauch" width="25%" align="left" />
+
+My research interests focus broadly in understanding the role of individual differences in alcohol and drug use behavior. Specifically, I am interested in applying multidisciplinary approaches to the study of: **a)** processes associated with positive treatment outcomes, with a particular emphasis on craving and pretreatment change, **b)** risk factors for the development of substance use disorders (SUDs), including positive and negative reinforcement pathways to use, **c)** the interplay between substance use, comorbid disorders, personality, and aggression, including intimate partner violence, and **d)** the moderating role of individual difference variables in alcohol related disinhibited behaviors. Related to my work on craving, I am also interested (in collaboration with Dr. Diana Rancourt) in the applicability of craving as a transdiagnostic construct for disordered eating and compensatory behaviors. Secondary interests include methodological issues in clinical science broadly, and substance use research specifically.
 
 # Post-Doctoral Researchers
 
-*Coming-Soon! Contact Dr. Schlauch if interested!*
+::: {.callout-tip appearence="simple"}
+## Post-Doctoral Researchers Wanted!
+
+For more information, contact Dr. Schlauch.
+
+:::
 
 # Graduate Students
 
 ## Brendan Walsh
 
-## Gaelle El Helou
+<img src="Brendan_Walsh.png" alt="Brendan Walsh" width="25%" align="left" />
 
-## Alex Rivera
 
-## Charlie Manzler
+ Brendan grew up on Long Island, New York and completed his undergraduate studies at Binghamton University before moving down to Tampa. His research interests include social and emotional processes implicated in alcohol use disorder, with a particular focus on loneliness and affective experiences. Outside of graduate studies, he loves spending time at the beach, playing golf, and watching a good TV show.
 
 ## Jared Davis
 
+<img src="Jared_Davis.jpeg" alt="Jared Davis" width="25%" align="left" />
+
+
+Before joining the ART lab, Jared competed a MA in experimental psychology at St. John’s University and enjoyed living and working in NYC. His research interests involve understanding individual difference factors in drinking and recovery. He is also interested in factors of well-being after treatment. Outside of the lab, he enjoys buying new plants, going to the beach, and reading a good book. 
+             
+<br>
+
 # Undergraduate Students
 
-- J.D. Dato 
-  - [Website](https://jd-dato.github.io)
+- [J.D. Dato](https://jd-dato.github.io/) 
+- Alex Ebbinghaus
+- Ha Jin Park
+- Elaine Sun
+- Ivena Lavoile
 
-- IDK the others like that tho...
+# Lab Alumni
+
+- Emily Noyes, Ph.D.
+- Jacob Levine, Ph.D.
+- Becky Gius, Ph.D.

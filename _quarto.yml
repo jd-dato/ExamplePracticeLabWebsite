@@ -2,8 +2,6 @@ project:
   type: website
 
 website:
-  repo-url: https://github.com/jd-dato/ExamplePracticeLabWebsite
-  repo-actions: [edit, issue]
   search: 
     location: navbar
     type: overlay
@@ -26,9 +24,7 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: morph
     css: styles.css
     toc: true
 

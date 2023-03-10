@@ -2,8 +2,7 @@
 title: "About Us"
 ---
 
-# Origin Story Here
+The ART Lab was started in 2017 at the University of South Florida. This lab is led by Dr. Robert Sclauch, PhD. The ART Lab is a research lab that focuses on the development of new technologies for the treatment of mental health disorders. The ART Lab is a part of the Department of Psychology at the University of South Florida. The ART Lab is located in the USF College of Behavioral and Community Sciences.
 
-## sub-heading about the challenges faced
-
-### sub-sub-heading about something that deserves a sub-sub-heading
+^^ an AI wrote this page. ^^
+Can't you tell? ^^
