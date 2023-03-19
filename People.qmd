@@ -12,11 +12,14 @@ toc-location: left
 
 # Principal Investigator
 
-## [Dr. Robert Schlauch](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)
+## Dr. Robert Schlauch
 
 <img src="ROB.jpg" alt="Robert Sclauch" width="25%" align="left" />
 
 My research interests focus broadly in understanding the role of individual differences in alcohol and drug use behavior. Specifically, I am interested in applying multidisciplinary approaches to the study of: **a)** processes associated with positive treatment outcomes, with a particular emphasis on craving and pretreatment change, **b)** risk factors for the development of substance use disorders (SUDs), including positive and negative reinforcement pathways to use, **c)** the interplay between substance use, comorbid disorders, personality, and aggression, including intimate partner violence, and **d)** the moderating role of individual difference variables in alcohol related disinhibited behaviors. Related to my work on craving, I am also interested (in collaboration with Dr. Diana Rancourt) in the applicability of craving as a transdiagnostic construct for disordered eating and compensatory behaviors. Secondary interests include methodological issues in clinical science broadly, and substance use research specifically.
+
+<button type="button" class="btn btn-secondary">[Google Scholar](https://scholar.google.com/citations?user=S7kibPcAAAAJ&hl=en&oi=ao)</button>
+<br></br>
 
 # Post-Doctoral Researchers
 
@@ -29,7 +32,7 @@ For more information, contact Dr. Schlauch.
 
 # Graduate Students
 
-## [Brendan Walsh](https://scholar.google.com/citations?user=hVMnAMsAAAAJ&hl=en)
+## Brendan Walsh
 
 <img src="Brendan_Walsh.png" alt="Brendan Walsh" width="25%" align="left" />
 
@@ -37,8 +40,8 @@ For more information, contact Dr. Schlauch.
  Brendan grew up on Long Island, New York and completed his undergraduate studies at Binghamton University before moving down to Tampa. His research interests include social and emotional processes implicated in alcohol use disorder, with a particular focus on loneliness and affective experiences. Outside of graduate studies, he loves spending time at the beach, playing golf, and watching a good TV show.
  <br></br>
 
- [E-mail](mailto:bew15@usf.edu)
-
+<button type="button" class="btn btn-secondary">[E-mail](mailto:bew15@usf.edu)</button>
+<button type="button" class="btn btn-secondary">[Google Scholar]((https://scholar.google.com/citations?user=hVMnAMsAAAAJ&hl=en))</button>
 ## Jared Davis
 
 <img src="Jared_Davis.jpeg" alt="Jared Davis" width="25%" align="left" />
@@ -46,6 +49,42 @@ For more information, contact Dr. Schlauch.
 
 Before joining the ART lab, Jared competed a MA in experimental psychology at St. John’s University and enjoyed living and working in NYC. His research interests involve understanding individual difference factors in drinking and recovery. He is also interested in factors of well-being after treatment. Outside of the lab, he enjoys buying new plants, going to the beach, and reading a good book. 
              
+<br></br>
+
+## Alex Rivera
+
+<img src="AlexanderRivera.jpeg" alt="Alex Rivera" width="25%" align="left" />
+
+Alex is joining the ART ab after completing his BA in Psychology and Biology from Johns Hopkins University and completing a Post-Baccalaureate in Psychology program at University of California, Irvine. His research interests include exploring the role of minority stress in relation to alcohol use, with a particular interest in the relationship between bisexual-specific and problematic alcohol use. Outside the lab, he enjoys spending time with his cat Coral and playing the ukulele.
+
+<button type="button" class="btn btn-secondary">[E-mail](mailto:ar210@usf.edu)</button>
+<button type="button" class="btn btn-secondary">[Google Scholar](https://scholar.google.com/citations?user=lGZXHLYAAAAJ&hl=en)</button>
+<button type="button" class="btn btn-secondary">[LinkedIn](https://www.linkedin.com/in/alexander-rivera-2b1b3b1b9/)</button>
+<button type="button" class="btn btn-secondary">[CV](https://usf.box.com/shared/static/2sjwgn9h9dnpddxs5621i7ygfi6t6kya.docx)</button>
+
+<br></br>
+
+## Gaelle El Helou
+
+<img src="Gaelle_Helou.jpeg" alt="Gaelle El Helou" width="25%" align="left" />
+
+Gaelle was originally born in Beirut, Lebanon where she completed her undergraduate degree in Psychology. She then moved to the US to do research and is currently a first-year student in the ART lab. She is interested in factors associated with alcohol use initiation, maintenance, and treatment outcomes. She is particularly interested in the role that emotion regulation plays in alcohol use. In her free time, she likes to play the piano, sing, and play Hogwarts Legacy.
+
+<button type="button" class="btn btn-secondary">[E-mail](mailto:gaelleelhelou@usf.edu)</button>
+<button type="button" class="btn btn-secondary">[Google Scholar](https://scholar.google.com/citations?hl=en&user=WTif8_IAAAAJ)</button>
+<button type="button" class="btn btn-secondary">[LinkedIn](https://www.linkedin.com/in/gaelle-el-helou-0830851a9)</button>
+
+
+<br></br>
+
+## Charlie Manzlier
+
+<img src="Charlie_manzlier.jpg" alt="Charlie Manzlier" width="25%" align="left" />
+
+Charlie completed his B.S. in Psychology and a two-year post-bac research position at The Ohio State University before starting graduate school at University of South Florida. His research interests include examining the role of health behaviors (e.g., sleep) on alcohol use disorder risk and recovery. In his free time, he loves exercising, reading, and watching soccer.
+
+<button type="button" class="btn btn-secondary">[E-mail](mailto:cmanzler@usf.edu)</button>
+
 <br></br>
 
 # Undergraduate Students
