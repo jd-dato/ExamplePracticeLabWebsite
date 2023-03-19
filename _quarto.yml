@@ -16,9 +16,6 @@ website:
             file: Projects.qmd
           - text: "Contact Us"
             file: Contact.qmd
-    right: 
-          - icon: envelope
-            href: mailto:artusf@usf.edu
 
 format:
   html:
