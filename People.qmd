@@ -42,6 +42,7 @@ For more information, contact Dr. Schlauch.
 
 <button type="button" class="btn btn-secondary">[E-mail](mailto:bew15@usf.edu)</button>
 <button type="button" class="btn btn-secondary">[Google Scholar]((https://scholar.google.com/citations?user=hVMnAMsAAAAJ&hl=en))</button>
+
 ## Jared Davis
 
 <img src="Jared_Davis.jpeg" alt="Jared Davis" width="25%" align="left" />
@@ -87,13 +88,7 @@ Charlie completed his B.S. in Psychology and a two-year post-bac research positi
 
 <br></br>
 
-# Undergraduate Students
 
-- [J.D. Dato](https://jd-dato.github.io/) 
-- Alex Ebbinghaus
-- Ha Jin Park
-- Elaine Sun
-- Ivena Lavoile
 
 # Lab Alumni
 

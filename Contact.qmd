@@ -22,8 +22,9 @@ title: 'Contact Us'
 **To prevent spam, we have hidden our email address. Please click the button above to reveal it.**
 
 # Directions
-PSD Lab Building, Room 3231???
-4202 E Fowler Ave, Tampa, FL 33620
+**Room 3123**
+<br></br>
+PSD Lab Building, 4202 E Fowler Ave, Tampa, FL 33620
 
 
 <style>
@@ -45,3 +46,9 @@ PSD Lab Building, Room 3231???
 <div class="map-container">
   <iframe class="map-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.711748323255!2d-82.42076268477186!3d28.06382468264554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2c7bd01d8c54b%3A0xd6094c7c7033753d!2sPsychology%20and%20Communication%20Sciences%20and%20Disorders%20Lab%20Building%2C%20Tampa%2C%20FL%2033620!5e0!3m2!1sen!2sus!4v1675713543249!5m2!1sen!2sus"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </div>
+
+# Parking Information
+
+If you're involved in an ongoing experiment, please park in the spaces behind the building labeled PCD/CSD 1, 2, or 3. Enter through the Psychological Services entrance, which faces the road underneath the building to the West.
+
+Otherwise, please park in any visitor parking space, or whichever parking space you are allowed to park in. Enter through the main entrance, which is past the Psychological Services entrance and has a TV screen in the lobby by the stairs.

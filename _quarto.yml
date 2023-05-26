@@ -16,7 +16,7 @@ website:
             file: Projects.qmd
           - text: "Contact Us"
             file: Contact.qmd
-
+ 
 format:
   html:
     theme:
